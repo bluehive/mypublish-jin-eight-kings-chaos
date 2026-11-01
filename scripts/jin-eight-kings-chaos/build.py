@@ -51,7 +51,7 @@ def main():
     ], check=True, cwd=ROOT)
     if args.verify:
         verify(output)
-    print(f'Generated {output.relative_to(ROOT)}（執筆準備版）')
+    print(f'Generated {output.relative_to(ROOT)}（前半初稿）')
 
 
 if __name__ == '__main__':
