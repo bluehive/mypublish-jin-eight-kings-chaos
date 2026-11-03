@@ -16,3 +16,9 @@
 - [年表（作業用）](chronology.md)
 - [用語集・表記統一](用語集.md)
 - [データパック](data-packs/) — [テンプレート](data-packs/TEMPLATE.md)、[第1章（ch02-draft.md）](data-packs/ch02_data_pack.md)
+
+## 2026-11-03 全体初稿
+
+- [全体初稿の照合記録](factcheck/whole-draft-2026-11-03.md)
+- [第5章データパック](data-packs/ch06_data_pack.md)
+- [第6章データパック](data-packs/ch07_data_pack.md)
